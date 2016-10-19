@@ -5,6 +5,9 @@ YOUR STYLES
 title {
     font-size: 100px;
 }
+li {
+    width: 20px;
+} 
 
 
 /********************

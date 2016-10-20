@@ -4,4 +4,5 @@
         $(".title").lettering();
       });
 </script>
- $.backstretch("/img/me.jpg")
+
+$.backstretch("/img/me.jpg")

@@ -40,6 +40,7 @@ h1, h3, p, title  {
     width: 1200px;
     margin: auto;
     font-size: 30px;
+    background: transparantwhite 
 }
 h3 {
     color: yellow;
@@ -73,7 +74,7 @@ li {
 }
 
 ul li {display: inline-block;}
-ul li:hover {width: 320px}
+ul li:hover {background: grey; width:200px;}
 ul li:hover ul {display: block;}
 
 
@@ -156,6 +157,11 @@ ul li:hover ul {display: block;}
   -webkit-animation-name: rollIn;
   animation-name: rollIn;
 }
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="js/lettering.js"></script>
+    <script src="js/backstretch.js"></script>
+    <script src="js/masonry.js"></script>
+    <script src="js/scripts.js"></script>
 
 /********************
 MEDIA QUERIES

@@ -32,7 +32,7 @@ img {
 }
 body {
     
-    background-image: url(https://github.com/ehuesca5/Name-plate/blob/gh-pages/img/wild_oliva.png?raw=true);
+    background-image: url('https://github.com/ehuesca5/Name-plate/blob/gh-pages/img/wild_oliva.png?raw=true');
 }
 
 h1, h3, p, title  {
@@ -63,6 +63,7 @@ head, h1 {
 }
 html {
     margin: 0 auto;
+    background-image: url('https://github.com/ehuesca5/Name-plate/blob/gh-pages/img/wild_oliva.png?raw=true');
 }
 li {
     float: left;

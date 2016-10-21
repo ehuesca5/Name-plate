@@ -31,8 +31,8 @@ img {
     padding: 10px;
 }
 body {
-    background-image: url('../../images/image.png');
-    background-image: url("/img/wild_oliva.png");
+    
+    background-image: url("https://github.com/ehuesca5/Name-plate/blob/gh-pages/img/wild_oliva.png?raw=true");
 }
 
 h1, h3, p, title  {
